@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_selenium",
+  "version": "1.0.0",
+  "description": "Selenium Example Project",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.19.2",
+    "build.js": "^0.3.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "jsreport": "^2.9.0",
+    "node": "^14.7.0",
+    "node-soap": "^1.0.0",
+    "nodejs": "0.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.3.6",
+    "cucumber": "^6.0.5",
+    "cucumber-html-reporter": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipak Gulmire",
+  "license": "MIT",
+  "keywords": []
+}
